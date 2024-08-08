@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gavey2110
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Data sciencd
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8432200006
 - 😄 Pronouns: Him/His
