@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gavey2110
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 8432200006
+- 💞️ I’m looking to collaborate on ...python projects
+- 📫 How to reach me #gourav220996@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: 
 
